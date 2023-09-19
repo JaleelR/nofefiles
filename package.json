@@ -1,0 +1,21 @@
+{
+  "name": "npm-files",
+  "version": "0.0.1",
+  "description": "first npm",
+  "main": "step1.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "main"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Jaleel W.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
